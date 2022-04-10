@@ -18,24 +18,24 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6288270863279','6288270863279','6288270863279']
+global.premium = ['6288270863279']
+global.ownernomer = '6288270863279'
+global.ownername = 'DanzBot Official'
+global.botname = 'DanzBot-MD'
+global.footer = 'DanzBot Official'
+global.ig = 'https://instagram.com/danzgamtenk'
+global.email = 'witmawati4@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.sc = 'Sc Minta Ma Owner Yuk, Free!'
+global.myweb = '-'
+global.packname = 'DanzBot-MD'
+global.author = 'DanzBot-MD'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: 'Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
